@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-around;
     padding: 16px;
+    height: 78px;
     box-shadow: 0 1px 3px -2px black;
 }
 
@@ -23,6 +24,7 @@
     color: #626262;
     font-size: 20px;
     font-weight: 500;
+    cursor: pointer;
 
 }
 .nav-menu li{
@@ -73,4 +75,5 @@
     font-size: 14px;
     background: red;
     color: white;
+    cursor: pointer;
 }
